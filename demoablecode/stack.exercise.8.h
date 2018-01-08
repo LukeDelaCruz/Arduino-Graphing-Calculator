@@ -1,5 +1,6 @@
 // Name: Luke Patrick Dela Cruz
-// ID: 1504816
+// Course: CMPUT 274 Fa17
+// Implementation of the stack data structure as an in-class data structure that was used in directly in this project.
 
 #ifndef STACK_H
 #define STACK_H
