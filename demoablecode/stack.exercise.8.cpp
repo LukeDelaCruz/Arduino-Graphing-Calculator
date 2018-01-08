@@ -1,3 +1,4 @@
+// Name: Luke Patrick Dela Cruz
 // Course: CMPUT 274 Fa17
 // Implementation of the stack data structure as an in-class data structure that was used in directly in this project.
 
