@@ -1,5 +1,4 @@
-// Name:Harpreet Saini; ID: 1504108
-//      Luke Patrick Dela Cruz; ID: 1504816
+// Course: CMPUT 274 Fa17
 
 #include <Arduino.h>
 #include <string.h>
