@@ -55,7 +55,28 @@ on the number of digits to the double number digits, but the amount of digits it
 * "...pow cannot be used to obtain a root of a negative number..." from http://en.cppreference.com/w/cpp/numeric/math/pow
 * https://softwareengineering.stackexchange.com/questions/42269/why-is-216-a-special-number
 
-Wiring instructions:
+Essential Parts:
+* Processor:
+ 1 x Arduino Mega Microcontroller
+ 1 x USB cable, 0.5m to 1.0m length, A-B Style
+
+* Breadboard:
+ 1 x 10" x 8.5" x 2.5" ESD SHIPPER box
+ 1 x Base Plate + Mega Mounting Hardware (3 x bolt+spacer+nut)
+ 4 x stick-on feet.  Peel off the paper on the back of the board (tearing
+    it around the nuts) and then stick the feet on the 4 corners.
+ 1 x 70 pcs 22 AWG solid jumper wire assortment
+ 1 x Single Panel Breadboard - attach this to the left of the Mega processor
+    with the number 1 pin to the top left.
+
+* LCD Display:
+ 1 x Adafruit 2.4" TFT LCD with Touchscreen Breakout w/MicroSD Socket 
+    (ILI9341) part number 2478
+ 2 x bolt+nut - The two small bolts and nuts are used for legs to hold the
+    display level with the breadboard.
+ 1 x Kingston flash memory card - 8 GB - microSDHC
+
+LCD Wiring instructions:
 * Wiring: from bottom to top on the right side (the side with the pins).
 	Board Pin <---> Arduino Pin
 	===========================
