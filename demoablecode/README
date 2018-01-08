@@ -1,9 +1,5 @@
 Course: CMPUT 274 Fa17
 
-Accessories:
-* Arduino Mega Board (AMG)
-* LCD display
-
 Included Files:
 * postfixeval.cpp
 * postfixeval.h
@@ -23,19 +19,14 @@ to upload the code to the Arduino and view the serial monitor.
 4. Use (Ctrl- a + z + e) to start local echo.
 5. Follow on-screen instructions.
 
-Notes:
+Acknowledgements:
 * Thanks to: https://blog.protoneer.co.nz/arduino-float-to-string-that-actually-works/
 for the nice find.
-
 * Thanks to : https://www.youtube.com/watch?v=hN7INGFw36A // at 3:10
-
 * Thanks to: https://ee-programming-notepad.blogspot.ca/2016/10/16-bit-color-generator-picker.html
 for their color generator
-
 * Thanks to: https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
 for showing the basics of the stack and evaluation of infix expressions
-
-* Usage of some class code with the parentheses balance checker as a minor project addition
 
 Assumptions:
 * That the variable z is used as a placeholder for the independent variable that will be used to graph the
@@ -47,7 +38,7 @@ dependent variable y such that y = y(z)
 * There are only non-sophisticated user input error detection measures in place including:
 >parentheses checking, wrong variable checking, and unknown character detection
 
-Issues with the program:
+Problems:
 * Issues with log and tan functions such that they cause minor visual glitches
 * Issues vertical asymptotes on really large domains (tanx) for large domains) being visible
 * Because the dtostrf() requires the programmer to make sure that it has enough storage for the values, there is a restriction
