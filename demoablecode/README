@@ -15,7 +15,7 @@ Included Files:
 * Makefile
 * README
 
-Usage instructions:
+Usage instructions for Ubuntu linux operating system:
 1. Connect the Arduino to the PC using an A-B style USB cable.
 2. Ensure that the Arduino is using the proper serial port (/dev/ttyACM0 or -ACM1).
 3. In the directory containing the files, use commands "make upload && serial-mon"
