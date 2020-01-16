@@ -1,8 +1,7 @@
 # Graphing Calculator via Arduino Mega 2560
 
-[DEMO](https://photos.app.goo.gl/Ue2hyfX6E98dUeu53)
-
-If you have the arduino setup as per the readme instructions then it's time to compile and run the code. I strongly recommend PlatformIO for Atom text editor found [here](http://docs.platformio.org/en/latest/ide/atom.html#ide-atom) as a universal arduino IDE because it does not require PlatformIO core, but does require Python 2.7.
+Graphing calculator that sports a function parser, multi-expression autoscaling, and evaluator for most trig/exponential/rational graphs.
+[Demo here.](https://photos.app.goo.gl/Ue2hyfX6E98dUeu53)
 
 ## Arduino-Mega-Kit-Details
 
